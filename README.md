@@ -1,2 +1,2 @@
 # Caloric-Maintenance-Calculator
-Calculate the amount of daily calories your body needs.
+Calculate the number of daily calories your body needs. Utilizes the Basal Metabolic Rate method.
